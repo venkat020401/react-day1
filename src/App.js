@@ -22,19 +22,19 @@ function App() {
           plan: "Community Access"
         },
         {
-          textMute : true,
+          textMute: true,
           plan: "Unlimited Private Projects"
         },
         {
-          textMute : true,
+          textMute: true,
           plan: "Dedicated Phone Support"
         },
         {
-          textMute : true,
+          textMute: true,
           plan: "Free Subdomain"
         },
         {
-          textMute : true,
+          textMute: true,
           plan: "Monthly Status Reports"
         },
       ],
@@ -66,7 +66,7 @@ function App() {
           plan: "Free Subdomain"
         },
         {
-          textMute : true,
+          textMute: true,
           plan: "Monthly Status Reports"
         },
       ],
