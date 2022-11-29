@@ -12,6 +12,8 @@ function Card({ card }) {
           <h6 class="card-price text-center">
             ${card.price}
             <span class="period">/month</span>
+
+            
           </h6>
           <hr />
           <ul className="fa-ul">
